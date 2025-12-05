@@ -1,7 +1,7 @@
 ## Sobre mí
-Titulación:
-SMR - Sistemas Microinformáticos y Redes
-DAM - Desarrollo de Aplicaciones Multiplataforma
+- Titulación:
+  · SMR - Sistemas Microinformáticos y Redes
+  · DAM - Desarrollo de Aplicaciones Multiplataforma
 
 <!--
 **arpy-2/arpy-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
