@@ -1,10 +1,10 @@
 ## Sobre mí
 
-- Titulación:
+Titulación:
   
-  · SMR - Sistemas Microinformáticos y Redes
+  - SMR [Sistemas Microinformáticos y Redes]
   
-  · DAM - Desarrollo de Aplicaciones Multiplataforma
+  - DAM [Desarrollo de Aplicaciones Multiplataforma]
 
 
 
