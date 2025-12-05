@@ -9,6 +9,9 @@
 ## Lenguajes
 
 ![html](https://github.com/user-attachments/assets/5c428e3c-ec68-4eb2-9a5b-e5e47754dd26)
+![css](https://github.com/user-attachments/assets/520ea6d3-7d8a-47af-b2b2-e9768c0ba94a)
+![js](https://github.com/user-attachments/assets/be77aee0-5a38-4669-9734-5290caf56c54)
+
 
 
 
