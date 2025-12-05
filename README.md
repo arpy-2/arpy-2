@@ -1,7 +1,5 @@
 ## Sobre mí
 
-Titulación:
-  
   - SMR [Sistemas Microinformáticos y Redes]
   
   - DAM [Desarrollo de Aplicaciones Multiplataforma]
@@ -9,6 +7,11 @@ Titulación:
 #
 
 ## Lenguajes
+
+![html](https://github.com/user-attachments/assets/5c428e3c-ec68-4eb2-9a5b-e5e47754dd26)
+
+
+
 
 <!--
 **arpy-2/arpy-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
