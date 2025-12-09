@@ -1,8 +1,8 @@
-## Sobre mí
+## About me
 
-  - SMR [Sistemas Microinformáticos y Redes]
+  - Microcomputer Systems and Networks
   
-  - DAM [Desarrollo de Aplicaciones Multiplataforma]
+  - Multiplatform Application Development
 
 #
 
